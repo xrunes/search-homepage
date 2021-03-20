@@ -1,5 +1,5 @@
-# Search-Homepage
-A browser home page.
+# Search-Box
+A browser search page.
 
 - [x] 搜索框接收输入内容并调用Javascript函数
 - [x] 搜索框自动获得焦点
