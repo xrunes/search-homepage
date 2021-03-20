@@ -5,3 +5,5 @@ A browser search page.
 - [x] 搜索框自动获得焦点
 - [x] Submit按钮接收输入内容调用Javascript函数
 - [ ] 解决浏览器宽度不足时元素自动下移的BUG
+
+[预览](https://xrunes.github.io/search-homepage/)
