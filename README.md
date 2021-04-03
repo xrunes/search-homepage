@@ -1,5 +1,5 @@
-# Search
-[预览地址](https://xrunes.github.io/search/)
+# Search-Homepage
+[预览地址](https://xrunes.github.io/search-homepage/)
 
 - [x] 搜索框接收输入内容并调用Javascript函数
 - [x] 搜索框自动获得焦点
