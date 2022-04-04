@@ -10,7 +10,7 @@
 
 2022.4.4 新增内容
 
-因为受不了Chrome不适用Goolge搜索引擎就无法自定义New Tab，因而模仿了一个Chrome新标签页页面
+因为受不了Chrome不使用Goolge搜索引擎就无法自定义New Tab，因而模仿了一个Chrome新标签页页面
 
 [预览地址](https://xrunes.github.io/search-homepage/chrome-new-tab.html)
 
