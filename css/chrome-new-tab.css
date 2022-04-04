@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    background-image: url(../img/1295632_2736-x-1824-wallpaper.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.logo{
+    width: 272px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 56px;
+    margin-bottom: 38px;
+    position: relative;
+}
+.logo img{
+    position: absolute;
+    bottom: 0;
+}
+.inputwrapper{
+    width: 561px;
+    height: 44px;
+    margin: 0 auto;
+}
+#search_input{
+    width: 465px;
+    height: 42px;
+    padding: 1px 44px 1px 52px;
+    margin: 0 auto;
+    box-sizing: content-box;
+    font-size: inherit;
+    border-radius: 40px;
+    border: 1px solid rgb(218 220 224);
+}
+.searchicon{
+    float: left;
+    position: relative;
+    left: 18px;
+    top: -32px;
+}
+.searchicon img{
+    width: 20px;
+    height: 20px;
+}
+.search{
+    float: left;
+}
+.voice{
+    float: right;
+    position: relative;
+    left: -17px;
+    top: -33px;
+}
+.voice img{
+    width: 20px;
+    height: 20px;
+}
+input:focus{outline: none;}
