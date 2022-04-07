@@ -22,6 +22,17 @@ body{
     height: 44px;
     margin: 0 auto;
 }
+@media (max-width:414px) {
+    .inputwrapper{
+        width: 393px;
+    }
+    .search{
+        width: 395px;
+    }
+    #search_input{
+        width: 297px !important;
+    }
+}
 #search_input{
     width: 465px;
     height: 42px;
