@@ -67,3 +67,29 @@ body{
     height: 20px;
 }
 input:focus{outline: none;}
+.windmill img{
+    position: absolute;
+    right: 20px;
+    bottom: 26px;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    z-index: 1;
+}
+.windmill span{
+    display: block;
+    margin-top: -30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5px;
+    height: 56px;
+    background-color: rgb(254, 254, 254);
+    bottom: 0;
+    position: absolute;
+    right: 37.5px;
+}
+
+#rotation:active{transform: rotate(360deg)}
+#rotation{
+    transition: all .3s ease;
+}
