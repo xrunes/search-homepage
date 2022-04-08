@@ -11,10 +11,10 @@
     </head>
     
     <body>
-        <form onsubmit="return search()" class="search-box">
+        <form onsubmit="if(!search()) event.preventDefault();" class="search-box">
             <input autofocus id="search_input" class="search-txt" type="text" autocomplete="off" placeholder="Type to search">
             <div class="search-btn">
-                <img onclick="return search()" src="./img/transparent.png" width="40px" height="40px">
+                <img onclick="search()" src="./img/transparent.png" width="40px" height="40px">
             </div>
         </form>
     </body>
