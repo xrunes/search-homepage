@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-image: url(../img/1295632_2736-x-1824-wallpaper.jpg);
+    /*background-image: url(../img/98124138_p0.jpg);*/
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;
@@ -83,7 +83,7 @@ input:focus{outline: none;}
     margin-right: auto;
     width: 5px;
     height: 56px;
-    background-color: rgb(254, 254, 254);
+    background-color: wheat;
     bottom: 0;
     position: absolute;
     right: 37.5px;
